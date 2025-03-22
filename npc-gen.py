@@ -3,7 +3,7 @@ import requests
 import json
 import os
 
-# LM Studio/Ollama API endpoint (确认 LM Studio 的配置)
+# LM Studio/Ollama API endpoint ( LM Studio )
 OLLAMA_API_URL = "http://localhost:1234/v1/chat/completions"  # Default LM Studio, adjust as needed.  Check the port in LM Studio.
 
 # 5e 2024 Ruleset (Expanded)
