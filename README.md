@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Python-based interactive NPC generator that leverages a language model (LM Studio with Qwen2.5) to create detailedNon-Player Characters (NPCs) for tabletop role-playing games, such as Dungeons & Dragons.  It allows you to specify the number of NPCs to generate and their strength level, and then generates a variety of attributes for each NPC, including:
+This project is a Python-based interactive NPC generator that leverages a language model (LM Studio with Qwen2.5) to create detailed Non-Player Characters (NPCs) for tabletop role-playing games, such as Dungeons & Dragons.  It allows you to specify the number of NPCs to generate and their strength level, and then generates a variety of attributes for each NPC, including:
 
 * Name
 * Race
